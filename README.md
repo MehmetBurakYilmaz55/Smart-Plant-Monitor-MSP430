@@ -46,7 +46,7 @@ Sistemin yazılımı, MSP430G2553 mikrodenetleyicisinin tüm kaynaklarını %100
 * **Haberleşme:** HC-05 / UART Bluetooth Modülü (Sadece modül olarak kullanılmıştır)
 * **Görüntüleme:** 0.96" SSD1306 OLED (I2C) (Sadece modül olarak kullanılmıştır)
 * **Geliştirme Ortamı:** Code Composer Studio (CCS)
-* **PCB Tasarım:** (Kullandığın programı buraya yazabilirsin, örn: Altium Designer / KiCad / Proteus Ares)
+* **PCB Tasarım:** KiCad
 
 ---
 
